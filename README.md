@@ -7,3 +7,5 @@ Practice-oriented learning with real-world tools.
 - PostgreSQL
 - Docker
 - Pytest
+## Goal
+Become a strong Junior / Middle backend developer.
